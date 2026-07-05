@@ -76,15 +76,6 @@ I enjoy solving complex engineering challenges, improving performance, writing c
 - AWS
 - Linux
 - CI/CD
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hammad124444&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-</p>
-
 ---
 
 # 🛠 Tech Stack
