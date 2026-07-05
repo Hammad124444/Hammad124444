@@ -1,16 +1,22 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Hammad Shabir
-
 <div align="center">
 
-### 🚀 Full-Stack Engineer • Web3 Developer • React Native • Solana • EVM
+# 👋 Hi, I'm Hammad Shabir
 
-Building scalable products that combine exceptional user experiences with blockchain innovation.
+### Full-Stack Software Engineer | Web3 Developer | Solana & EVM Specialist
+
+Building scalable web applications, mobile apps, and blockchain solutions with modern technologies.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Solana+%26+EVM+Developer;React+%7C+Next.js+%7C+React+Native;Building+Scalable+Web+Applications;Smart+Contract+Developer;Always+Learning+New+Technologies" />
-</p>
+  <a href="https://github.com/Hammad124444">
+    <img src="https://komarev.com/ghpvc/?username=Hammad124444&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  </a>
 
-<img src="https://komarev.com/ghpvc/?username=Hammad124444&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <a href="https://github.com/Hammad124444?tab=followers">
+    <img src="https://img.shields.io/github/followers/Hammad124444?label=Followers&style=flat-square" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Open%20To-Freelance-success?style=flat-square" />
+</p>
 
 </div>
 
@@ -18,174 +24,149 @@ Building scalable products that combine exceptional user experiences with blockc
 
 # 💫 About Me
 
-```typescript
-const hammad = {
-    role: "Full-Stack Software Engineer",
-    passions: [
-        "Web Development",
-        "Mobile Development",
-        "Blockchain",
-        "AI",
-        "Open Source"
-    ],
+I'm a **Full-Stack Software Engineer** with over **4 years of experience** building modern web applications, cross-platform mobile apps, and blockchain solutions.
 
-    frontend: [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Tailwind CSS"
-    ],
+I specialize in designing scalable software using **React**, **Next.js**, **React Native**, **Node.js**, **TypeScript**, and modern cloud technologies.
 
-    backend: [
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "PostgreSQL",
-        "Firebase"
-    ],
+On the blockchain side, I develop decentralized applications, smart contracts, staking platforms, NFT marketplaces, and DeFi products using **Solana (Rust & Anchor)** and **EVM (Solidity)**.
 
-    blockchain: [
-        "Solana",
-        "Rust",
-        "Anchor",
-        "Solidity",
-        "EVM",
-        "Web3"
-    ],
-
-    currentFocus: "Building scalable Web3 applications."
-}
-```
+I enjoy solving complex engineering challenges, improving performance, writing clean architecture, and transforming ideas into production-ready products.
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Core Expertise
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,html,css" />
-</p>
+- React
+- Next.js
+- TypeScript
+- React Native
+- Tailwind CSS
+- Redux
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,graphql" />
-</p>
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- Firebase
+- REST APIs
+- GraphQL
 
 ### Blockchain
 
-<p>
-<img src="https://skillicons.dev/icons?i=solidity,rust" />
-</p>
+- Solana
+- Rust
+- Anchor
+- Solidity
+- EVM
+- Web3.js
+- Wallet Integration
+- Staking
+- NFT Marketplace
+- DeFi
 
-### DevOps & Tools
+### DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,aws" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hammad124444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad124444&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad124444&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Git
+- GitHub
+- Docker
+- AWS
+- Linux
+- CI/CD
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hammad124444&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hammad124444&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad124444&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hammad124444&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,postgres,firebase,tailwind,redux,rust,solidity,docker,aws,git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🌱 Currently Exploring
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Hammad124444/Hammad124444/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Featured Skills
-
-- ⚡ Full-Stack Web Development
-- 📱 React Native Applications
-- ☀️ Solana Smart Contracts
-- 🔥 Solidity & EVM Development
-- 💰 DeFi Applications
-- 🖼 NFT Marketplaces
-- 🔐 Wallet Integration
-- 📦 REST APIs
-- ☁️ Cloud Deployment
-- ⚙️ System Architecture
+- 🤖 AI-powered Applications
+- ⚡ Solana Ecosystem
+- 🦀 Advanced Rust
+- 🏗 Scalable Backend Architecture
+- ☁️ Cloud Infrastructure
 
 ---
 
-# 🌱 Currently Learning
+# 💼 Featured Projects
 
-- AI Integration
-- Multi-chain Development
-- High Performance Backend Systems
-- WebAssembly
-- Advanced Rust
+### 🔥 Solana Staking Platform
+
+Smart contract staking platform built using Rust & Anchor.
 
 ---
 
-# 🤝 Connect With Me
+### 🖼 NFT Marketplace
+
+Marketplace supporting minting, trading and wallet integrations.
+
+---
+
+### 🍔 Food Ordering Platform
+
+Modern full-stack ordering platform with admin dashboard.
+
+---
+
+### 📱 Cross-platform Mobile Apps
+
+Production-ready React Native applications using Expo.
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://linkedin.com/in/hammad-shabir-330418146">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/Hammad124444">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:hh2714187@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Hammad124444">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💭 Quote
+# 💡 Fun Fact
 
-> **"Great software isn't just built—it is engineered with purpose."**
+💪 When I'm not coding, you'll probably find me in the gym pushing for a new PR, learning emerging technologies, or contributing to open-source projects.
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+*"Code with purpose. Build with passion."*
 
 </div>
