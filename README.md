@@ -10,7 +10,7 @@ Building scalable products that combine exceptional user experiences with blockc
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Solana+%26+EVM+Developer;React+%7C+Next.js+%7C+React+Native;Building+Scalable+Web+Applications;Smart+Contract+Developer;Always+Learning+New+Technologies" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Hammad Shabir&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Hammad124444&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -91,11 +91,11 @@ const hammad = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hammad Shabir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hammad124444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad Shabir&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad124444&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad Shabir&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad124444&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -105,7 +105,7 @@ const hammad = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hammad Shabir&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hammad124444&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -115,7 +115,7 @@ const hammad = {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hammad Shabir&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hammad124444&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -125,7 +125,7 @@ const hammad = {
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Hammad Shabir/Hammad Shabir/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Hammad124444/Hammad124444/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -160,19 +160,15 @@ const hammad = {
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/hammad-shabir-330418146">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/Hammad Shabir">
+<a href="https://github.com/Hammad124444">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://twitter.com/YOUR_X">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:hh2714187@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
